@@ -1,0 +1,74 @@
+// ********
+// to call a mixin
+// @include respond('tab-land') {
+//
+// }
+// ********
+
+@mixin absCenter {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@mixin button(
+  $width,
+  $margin-top,
+  $margin-right,
+  $margin-bottom,
+  $margin-left
+) {
+  margin: $margin-top $margin-right $margin-bottom $margin-left;
+  width: $width;
+}
+
+@mixin contact-section-side-border($borderWidth) {
+  border-right: $borderWidth solid $color-grey-light;
+  border-left: $borderWidth solid $color-grey-light;
+}
+
+/*
+  USAGE
+  @include respond(phone) {
+    width: 90%;
+  }
+*/
+
+@mixin respond($breakpoint) {
+  @if $breakpoint == phone {
+    @media only screen and (max-width: 45rem) {
+      @content;
+    } //600px
+  }
+  @if $breakpoint == tab-port {
+    @media only screen and (max-width: 68rem) {
+      @content;
+    } //900px
+  }
+  @if $breakpoint == tab-land {
+    @media only screen and (max-width: 75rem) {
+      @content;
+    } //1200px
+  }
+  @if $breakpoint == big-desktop {
+    @media only screen and (min-width: 75rem) {
+      @content;
+    } //1800
+  }
+}
+
+@mixin text-gradient($font-size) {
+  font-size: $font-size;
+  text-transform: uppercase;
+  font-weight: 700;
+  display: inline-block;
+  background-image: linear-gradient(
+    to right,
+    $color-blue-primary,
+    $color-grey-light
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
