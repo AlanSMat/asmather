@@ -1,0 +1,30 @@
+{
+  "Home": [
+    {
+      "nav_title": "Home",
+      "page_title": "Home",
+      "dir": "home"
+    }
+  ],
+  "Companies": [
+    {
+      "nav_title": "About",
+      "page_title": "About",
+      "dir": "about"
+    }
+  ],
+  "My Work": [
+    {
+      "nav_title": "My Work",
+      "page_title": "My Work",
+      "dir": "work"
+    }
+  ],
+  "Contact": [
+    {
+      "nav_title": "Contact",
+      "page_title": "Contact",
+      "dir": "contact"
+    }
+  ]
+}

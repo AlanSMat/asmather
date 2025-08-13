@@ -1,0 +1,22 @@
+[08-Apr-2025 10:57:19 Australia/Sydney] PHP Warning:  copy(/home/asmather/public_html/cv/dist/site/json/category_default.txt): Failed to open stream: No such file or directory in /home/asmather/public_html/cv/index.php on line 21
+[08-Apr-2025 10:57:19 Australia/Sydney] PHP Warning:  copy(/home/asmather/public_html/cv/dist/site/json/category_default.txt): Failed to open stream: No such file or directory in /home/asmather/public_html/cv/index.php on line 21
+[08-Apr-2025 10:57:19 Australia/Sydney] PHP Fatal error:  Uncaught UnexpectedValueException: DirectoryIterator::__construct(/home/asmather/public_html/cv/refs): Failed to open directory: No such file or directory in /home/asmather/public_html/cv/index.php:79
+Stack trace:
+#0 /home/asmather/public_html/cv/index.php(79): DirectoryIterator->__construct()
+#1 {main}
+  thrown in /home/asmather/public_html/cv/index.php on line 79
+[19-May-2025 11:03:31 Australia/Sydney] PHP Fatal error:  Uncaught UnexpectedValueException: DirectoryIterator::__construct(/home/asmather/public_html/cv/refs): Failed to open directory: No such file or directory in /home/asmather/public_html/cv/index.php:79
+Stack trace:
+#0 /home/asmather/public_html/cv/index.php(79): DirectoryIterator->__construct()
+#1 {main}
+  thrown in /home/asmather/public_html/cv/index.php on line 79
+[20-May-2025 10:18:42 Australia/Sydney] PHP Fatal error:  Uncaught UnexpectedValueException: DirectoryIterator::__construct(/home/asmather/public_html/cv/refs): Failed to open directory: No such file or directory in /home/asmather/public_html/cv/index.php:79
+Stack trace:
+#0 /home/asmather/public_html/cv/index.php(79): DirectoryIterator->__construct()
+#1 {main}
+  thrown in /home/asmather/public_html/cv/index.php on line 79
+[23-May-2025 10:16:12 Australia/Sydney] PHP Fatal error:  Uncaught UnexpectedValueException: DirectoryIterator::__construct(/home/asmather/public_html/cv/refs): Failed to open directory: No such file or directory in /home/asmather/public_html/cv/index.php:79
+Stack trace:
+#0 /home/asmather/public_html/cv/index.php(79): DirectoryIterator->__construct()
+#1 {main}
+  thrown in /home/asmather/public_html/cv/index.php on line 79

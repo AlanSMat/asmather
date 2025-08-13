@@ -1,0 +1,221 @@
+:root {
+  --color-blue: #4281b5;
+  --color-grey: #f0f0f0;
+  --color-mid-grey: #ccc;
+  --color-dark: #333;
+  --color-teal: #a1cccc;
+}
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.col-left {
+  width: 300px;
+  margin-right: 24px;
+  background-color: var(--color-mid-grey);
+}
+
+.col-left--inner {
+  width: 260px;
+  margin: auto;
+  padding-top: 14px;
+}
+
+.col-left-header {
+  padding-bottom: 2px;
+}
+
+.profile {
+  padding-bottom: 40px;
+  line-height: 1.2rem;
+}
+
+.profile:last-child {
+  padding-bottom: 0px;
+}
+
+.col-right {
+  width: 555px;
+}
+
+.col-left-ul {
+  line-height: 1.2rem;
+  list-style: square outside none;
+  padding-left: 20px;
+}
+
+.col-left-ul li {
+  padding-bottom: 5px;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 36px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 28px;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+h4 {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.icon-spacing {
+  padding: 15px;
+}
+
+#page-two {
+  border-top: 1px solid #ccc;
+}
+
+.outer-container {
+  width: 910px;
+  margin: auto;
+  background-color: var(--color-grey);
+  border-bottom: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+}
+
+.pb-5 {
+  padding-bottom: 5px;
+}
+
+.pt-5 {
+  padding-top: 5px;
+}
+
+.pt-10 {
+  padding-top: 10px;
+}
+
+.pt-15 {
+  padding-top: 15px;
+}
+
+.pt-20 {
+  padding-top: 20px;
+}
+
+.pt-25 {
+  padding-top: 25px;
+}
+
+.pt-30 {
+  padding-top: 30px;
+}
+
+.pt-35 {
+  padding-top: 35px;
+}
+
+.inner-container {
+  display: flex;
+  margin: auto;
+}
+
+.inner-container--mt22 {
+  margin-top: 22px;
+}
+
+.display-flex {
+  display: flex;
+}
+
+header {
+  background-color: var(--color-blue);
+  width: 100%;
+  color: var(--color-grey);
+}
+
+.job-container {
+  padding-bottom: 1rem;
+}
+
+.fas {
+  /* color: var(--color-grey); */
+}
+
+.my-name {
+  padding: 3rem 0 3rem 1rem;
+  flex-grow: 1;
+  align-self: center;
+}
+
+.icon-container {
+  /* background-color: var(--color-blue); */
+}
+
+.contact {
+  padding-right: 1rem;
+  align-self: center;
+}
+
+.title {
+  background-color: var(--color-mid-grey);
+  color: var(--color-dark);
+  margin: 0rem 1.5rem 0 0;
+  padding: 0.8rem;
+  width: 96.6%;
+}
+
+.description {
+  padding: 0.8rem 0.8rem 0rem 0.8rem;
+  line-height: 1.2rem;
+}
+
+.contact ul li {
+  line-height: 1.5rem;
+}
+
+.main-heading {
+  text-transform: uppercase;
+  color: var(--color-dark);
+}
+
+.line {
+}
+
+.list-tasks {
+  padding: 5px 15px 0px 20px;
+}
+
+.list-tasks li {
+  list-style: square outside none;
+  padding-bottom: 10px;
+}
+
+.sub-title {
+  display: flex;
+  border-bottom: 1px solid #ccc;
+}
+.job-title {
+  text-transform: uppercase;
+  flex-grow: 1;
+  padding: 10px 0 10px 13px;
+  font-weight: bold;
+  color: var(--color-blue);
+}
+.date-worked {
+  align-self: center;
+  color: var(--color-blue);
+  text-transform: uppercase;
+  font-size: 15px;
+}
+
+.summary {
+  padding: 0 0 0.6rem 0;
+}
+
+.bold {
+  font-weight: bold;
+}

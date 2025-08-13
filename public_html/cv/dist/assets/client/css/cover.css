@@ -1,0 +1,252 @@
+:root {
+  --color-blue: #4281b5;
+  --color-grey: #f0f0f0;
+  --color-mid-grey: #ccc;
+  --color-dark: #333;
+  --color-teal: #a1cccc;
+}
+
+a {
+  color: var(--color-blue);
+}
+
+.app-content{
+  min-height:calc(100vh - 50px);
+  margin-top:50px;
+  padding:30px;  
+  /* margin-left:230px; */
+  transition: margin-left 0.3s ease;
+  @media(max-width:767px){
+      margin-left:0;
+  }
+}
+
+body,
+input,
+textarea,
+button {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+header {
+  background-color: var(--color-blue);
+  width: 100%;
+  color: var(--color-grey);
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 36px;
+}
+
+.contact {
+  padding-right: 1rem;
+  align-self: center;
+}
+
+.contact ul li {
+  line-height: 1.5rem;
+}
+
+.display-flex,
+.display-flex--space-between,
+.display-flex--space-evenly,
+.display-flex--flex-end {
+  display: flex;
+}
+
+.display-flex--space-between {
+  justify-content: space-between;
+}
+.display-flex--space-evenly {
+  justify-content: space-evenly;
+}
+.display-flex--flex-end {
+  justify-content: flex-end;
+}
+
+.icon-spacing {
+  padding: 15px;
+}
+
+.inner-container {
+  padding: 30px;
+  height: 991px;
+}
+
+.inner-container--form {
+  padding: 30px;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.job-contact-details--name {
+  font-weight: bold;
+}
+
+.job-contact-details p {
+  line-height: 1.2rem;
+}
+
+.keypoints {
+  padding-left: 25px;
+}
+
+.keypoints li {
+  line-height: 1.5rem;
+  list-style: square outside none;
+}
+
+.menu {
+  width: 250px;
+  margin: auto;
+}
+
+.menu-title {
+  font-weight: bold;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  font-size: 25px;
+  color: var(--color-dark);
+}
+
+.menu-link a {
+  font-size: 16px;
+  line-height: 1.5rem;
+  padding: 0 0 0 5px;  
+}
+
+.salutation p {
+  line-height: 1.2rem;
+  padding: 15px 0;
+}
+
+.signature {
+  padding-top: 0.5rem;
+}
+
+.signature p {
+  line-height: 1.5rem;
+}
+
+.signature--name {
+  font-weight: bold;
+  padding-top: 15px;
+  line-height: 1.2rem;
+}
+
+.message p {
+  line-height: 1.2rem;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.outer-container {
+  width: 910px;
+  margin: auto;
+  background-color: var(--color-grey);
+  border-bottom: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+}
+
+.spacer {
+  padding: 3rem 0 3rem 2rem;
+  flex-grow: 1;
+  align-self: center;
+}
+
+.my-name {
+  font-weight: bold;
+  font-size: 18px;
+  padding-left: 14px;
+  padding-bottom: 0.2rem;
+}
+
+.contact {
+  padding: 1rem;
+}
+
+input[type="text"],
+select,
+.form-row textarea {
+  padding: 8px;
+  width: 383px;
+  font-size: 16px;
+  color: #666;
+  margin-right: 25px;
+}
+
+select {
+  width: 400px;
+  padding: 9px;
+}
+
+.form-row #employer-address {
+  height: 60px;
+}
+
+.form-row #intro-paragraph,
+.form-row #cover-letter-body,
+.form-row #input--link {
+  width: 818px;
+}
+
+.employer-contact-container {
+  width: 350px;
+}
+
+.form-row {
+  padding: 5px;
+}
+
+label {
+  display: block;
+  padding-bottom: 5px;
+}
+
+button {
+  padding: 8px;
+  border: 1px solid #999;
+  width: 150px;
+  background-color: #fff;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: var(--color-grey);
+  cursor: pointer;
+}
+
+.button-container {
+  padding: 15px 5px 15px 5px;
+}
+
+.form-title {
+  padding: 10px;
+  color: #333;
+  background-color: #ccc;
+  font-size: 18px;
+  font-weight: bold;
+  border-bottom: 1px solid #999;
+}
+
+.table-list {
+  width: 100%;
+  margin: auto;
+}
+
+td {
+  padding: 8px;
+}
+
+.header td {
+  font-weight: bold;
+  border-bottom: 1px solid var(--color-mid-grey);
+}
+
+.form_title {
+  display: none;
+}

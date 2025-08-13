@@ -1,0 +1,282 @@
+[02-Aug-2024 23:43:28 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[02-Aug-2024 23:43:28 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[02-Aug-2024 23:43:28 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[03-Aug-2024 02:55:21 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[03-Aug-2024 02:55:21 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[03-Aug-2024 02:55:21 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[05-Aug-2024 02:37:48 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[05-Aug-2024 02:37:48 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[05-Aug-2024 02:37:48 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[07-Aug-2024 16:16:18 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[07-Aug-2024 16:16:18 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[07-Aug-2024 16:16:18 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[08-Aug-2024 16:45:06 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[08-Aug-2024 16:45:06 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[08-Aug-2024 16:45:06 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[09-Aug-2024 16:47:47 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[09-Aug-2024 16:47:47 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[09-Aug-2024 16:47:47 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[10-Aug-2024 17:36:25 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[10-Aug-2024 17:36:25 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[10-Aug-2024 17:36:25 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[11-Aug-2024 22:33:41 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[11-Aug-2024 22:33:41 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[11-Aug-2024 22:33:41 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[13-Aug-2024 03:20:35 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[13-Aug-2024 03:20:35 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[13-Aug-2024 03:20:35 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[14-Aug-2024 03:57:55 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[14-Aug-2024 03:57:55 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[14-Aug-2024 03:57:55 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[15-Aug-2024 03:58:35 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[15-Aug-2024 03:58:35 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[15-Aug-2024 03:58:35 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[16-Aug-2024 06:02:43 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[16-Aug-2024 06:02:43 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[16-Aug-2024 06:02:43 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[23-Aug-2024 02:19:53 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[23-Aug-2024 02:19:53 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[23-Aug-2024 02:19:53 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[23-Aug-2024 02:19:57 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[23-Aug-2024 02:19:57 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[23-Aug-2024 02:19:57 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[23-Aug-2024 02:20:01 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[23-Aug-2024 02:20:01 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[23-Aug-2024 02:20:01 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[23-Aug-2024 02:20:05 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[23-Aug-2024 02:20:05 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[23-Aug-2024 02:20:05 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[23-Aug-2024 02:20:09 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[23-Aug-2024 02:20:09 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[23-Aug-2024 02:20:09 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[03-Sep-2024 02:38:19 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[03-Sep-2024 02:38:19 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[03-Sep-2024 02:38:19 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[05-Sep-2024 19:02:49 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[05-Sep-2024 19:02:49 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[05-Sep-2024 19:02:49 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[06-Sep-2024 08:05:21 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[06-Sep-2024 08:05:21 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[06-Sep-2024 08:05:21 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[06-Sep-2024 20:44:27 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[06-Sep-2024 20:44:27 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[06-Sep-2024 20:44:27 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[07-Sep-2024 17:06:47 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[07-Sep-2024 17:06:47 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[07-Sep-2024 17:06:47 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[09-Sep-2024 04:24:47 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[09-Sep-2024 04:24:47 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[09-Sep-2024 04:24:47 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[09-Sep-2024 06:45:30 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[09-Sep-2024 06:45:30 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[09-Sep-2024 06:45:30 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[10-Sep-2024 12:14:15 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[10-Sep-2024 12:14:15 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[10-Sep-2024 12:14:15 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[11-Sep-2024 13:25:42 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[11-Sep-2024 13:25:42 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[11-Sep-2024 13:25:42 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[12-Sep-2024 08:46:15 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[12-Sep-2024 08:46:15 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[12-Sep-2024 08:46:15 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[12-Sep-2024 14:13:26 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[12-Sep-2024 14:13:26 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[12-Sep-2024 14:13:26 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[13-Sep-2024 14:28:34 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[13-Sep-2024 14:28:34 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[13-Sep-2024 14:28:34 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[14-Sep-2024 16:40:18 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[14-Sep-2024 16:40:18 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[14-Sep-2024 16:40:18 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[15-Sep-2024 20:20:44 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[15-Sep-2024 20:20:44 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[15-Sep-2024 20:20:44 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[16-Sep-2024 21:18:16 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[16-Sep-2024 21:18:16 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[16-Sep-2024 21:18:16 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[17-Sep-2024 22:58:18 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[17-Sep-2024 22:58:18 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[17-Sep-2024 22:58:18 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[19-Sep-2024 00:16:55 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[19-Sep-2024 00:16:55 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[19-Sep-2024 00:16:55 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[19-Sep-2024 00:34:54 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[19-Sep-2024 00:34:54 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[19-Sep-2024 00:34:54 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[24-Sep-2024 10:12:47 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[24-Sep-2024 10:12:47 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[24-Sep-2024 10:12:47 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[25-Sep-2024 11:46:31 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[25-Sep-2024 11:46:31 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[25-Sep-2024 11:46:31 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[12-Oct-2024 06:32:25 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[12-Oct-2024 06:32:25 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[12-Oct-2024 06:32:25 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[29-Dec-2024 10:41:45 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[29-Dec-2024 10:41:45 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[29-Dec-2024 10:41:45 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[26-Jan-2025 14:04:19 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[26-Jan-2025 14:04:19 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[26-Jan-2025 14:04:19 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[04-Feb-2025 04:04:35 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[04-Feb-2025 04:04:35 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[04-Feb-2025 04:04:35 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[16-Feb-2025 10:53:31 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[16-Feb-2025 10:53:31 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[16-Feb-2025 10:53:31 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[17-Mar-2025 10:45:31 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[17-Mar-2025 10:45:31 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[17-Mar-2025 10:45:31 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[25-Jun-2025 22:35:37 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[25-Jun-2025 22:35:37 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[25-Jun-2025 22:35:37 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[12-Jul-2025 03:08:45 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[12-Jul-2025 03:08:45 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[12-Jul-2025 03:08:45 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[12-Jul-2025 03:09:02 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[12-Jul-2025 03:09:02 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[12-Jul-2025 03:09:02 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
+[11-Aug-2025 21:39:14 Australia/Sydney] PHP Warning:  include(../../../globals.php): Failed to open stream: No such file or directory in /home/asmather/public_html/dist/site/about/index.php on line 2
+[11-Aug-2025 21:39:14 Australia/Sydney] PHP Warning:  include(): Failed opening '../../../globals.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/asmather/public_html/dist/site/about/index.php on line 2
+[11-Aug-2025 21:39:14 Australia/Sydney] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_HEADER" in /home/asmather/public_html/dist/site/about/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/asmather/public_html/dist/site/about/index.php on line 4
